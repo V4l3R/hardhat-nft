@@ -1,4 +1,4 @@
-# Hardhat Lottery Project
+# Hardhat NFT Project
 
 This is a project based on the FreeCodeCamp tutorial
 
