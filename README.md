@@ -25,5 +25,5 @@ To run the code coverage :
 
 To check the presence of nft on testnet :
 
-1. Get the contract adress of the nft in the transaction details of the mintNft event (from the smart contract etherscan page)
-2. Paste the adress of the contract of the nft to https://testnets.opensea.io/
+1. Get the adress of the nft in the transaction details of the mintNft event (from the smart contract etherscan page)
+2. Paste the adress of the nft to https://testnets.opensea.io/
